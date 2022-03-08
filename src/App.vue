@@ -62,8 +62,10 @@ export default {
     }
   },
 };
+// Da update laij
 </script>
 
 <style>
 
 </style>
+
