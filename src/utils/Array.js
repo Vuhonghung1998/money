@@ -1,0 +1,1 @@
+export const randomm =  (list) => list.sort(() => Math.random() - 0.9);
